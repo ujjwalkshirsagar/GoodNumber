@@ -37,7 +37,7 @@ public class Main {
         return u;
     }
     
-    
+    // Main function
     public static void main(String[] args){
     
         int loop=0;
