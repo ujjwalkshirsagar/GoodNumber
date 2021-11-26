@@ -1,4 +1,4 @@
-package com.ujjwal;
+//package com.ujjwal;
 
 import java.util.Scanner;
 
