@@ -76,10 +76,12 @@ public class Main {
                     continue;
 
                 case 'n':
+                    System.out.println("Program Finised");
                     loop=3; //To exit the program changing loop value to 3 so that infinite while loop will stop
                     break;
 
                 case 'N':
+                    System.out.println("Program Finised");
                     loop=3; //To exit the program changing loop value to 3 so that infinite while loop will stop
                     break;
 
